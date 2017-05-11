@@ -1,0 +1,5 @@
+username: ftp-username
+password: ftp-password
+server: ftp.example.com
+master: /path/to/master.mp3
+count: /path/to/count.txt
