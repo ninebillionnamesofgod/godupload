@@ -50,7 +50,7 @@ with open("index.html", "w") as f:
 
 f = open("index.html", "rb")
 
-session.storbinary("STOR /www/index42.html", f)
+session.storbinary("STOR /www/index.html", f)
 f.close()
 
 session.quit()
